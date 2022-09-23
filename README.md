@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anpaulasg
 - 👀 I’m interested in development 
 - 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on projects involving Ruby on Rails, but also very open to get to know other technologies. :)
+- 💞️ I’m looking to collaborate on projects involving Ruby on Rails, but also very open to getting to know other technologies. :)
 - 📫 How to reach me anpaulasg@gmail.com
 
 <!---
